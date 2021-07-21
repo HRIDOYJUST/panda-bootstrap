@@ -1,0 +1,17 @@
+.btn-color{
+    background-image: linear-gradient(#FF1973,#FF4C93);
+    padding: 10px 40px;
+}
+.btn-color{
+    font-weight: bold;
+}
+
+.section-carousel{
+    background-color: #FEEAE9;
+}
+#subscribe{
+    background-color: #FEEAE9;
+    border-radius: 10px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
